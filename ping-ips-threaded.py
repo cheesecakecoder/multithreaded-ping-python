@@ -1,3 +1,4 @@
+# copyright: I don't give a shit - use it. modify it. as if anybody is reading "copyright X" and going "ohshit! nvm on my development plans."
 import sys
 import os
 import hashlib
